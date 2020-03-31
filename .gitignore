@@ -1,5 +1,6 @@
 # Default ignored files
 /workspace.xml
 
+/configurations
 /.idea
 /venv
